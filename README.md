@@ -1,2 +1,5 @@
 - Model 1: This program contains a Convolutional Neural Network (CNN) that was built from-scratch using Keras to be trained on CIFAR-10 image dataset.
 - Model 2: This program contains a Recurrent Neural Network (RNN) that was built from-scratch using Keras to be trained on IMDB sequence dataset.
+- Model 3: This program contains a Principal Component Analysis (PCA) that was built from-scratch using Keras to be trained on MNIST images dataset.
+- Model 4: This program contains an Autoencoder (AE) that was built from-scratch using Keras to be trained on MNIST images dataset.
+- Model 5: This program contains a Variational Autoencoder (VAE) that was built from-scratch using Keras to be trained on MNIST images dataset.
