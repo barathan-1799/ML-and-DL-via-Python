@@ -3,3 +3,4 @@
 - Model 3: This program contains a Principal Component Analysis (PCA) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 4: This program contains an Autoencoder (AE) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 5: This program contains a Variational Autoencoder (VAE) that was built from-scratch using Keras to be trained on MNIST images dataset.
+- Model 6: This program contains a Generative Adversarial Network (GAN) that was built from-scratch using Keras to be trained on MNIST images dataset.
