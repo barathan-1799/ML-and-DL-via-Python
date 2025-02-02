@@ -4,3 +4,4 @@
 - Model 4: This program contains an Autoencoder (AE) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 5: This program contains a Variational Autoencoder (VAE) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 6: This program contains a Generative Adversarial Network (GAN) that was built from-scratch using Keras to be trained on MNIST images dataset.
+- Model 7: This program contains a Deep Q-Network (DQN) that was built from-scratch using Keras to be trained for CartPole‑v1 environment.
