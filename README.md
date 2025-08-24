@@ -7,3 +7,4 @@
 - Model 7: This program contains a Deep Q-Network (DQN) that was built from-scratch using Keras to be trained for CartPole‑v1 environment.
 - Model 8: This program contains a Multilayer Perceptorn (MLP) for multiclass classification of make_blobs dataset from sklearn using PyTorch.
 - Model 9: This program contains a Convolutional Neural Network (CNN) for multiclass classification of CIFAR10 dataset from torchvision using PyTorch.
+- OpenCV: This folder contains Python notebooks and scripts that demonstrate the fundamental techniques of image and video processing for computer vision applications by using OpenCV.
