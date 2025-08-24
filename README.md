@@ -5,3 +5,5 @@
 - Model 5: This program contains a Variational Autoencoder (VAE) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 6: This program contains a Generative Adversarial Network (GAN) that was built from-scratch using Keras to be trained on MNIST images dataset.
 - Model 7: This program contains a Deep Q-Network (DQN) that was built from-scratch using Keras to be trained for CartPole‑v1 environment.
+- Model 8: This program contains a Multilayer Perceptorn (MLP) for multiclass classification of make_blobs dataset from sklearn using PyTorch.
+- Model 9: This program contains a Convolutional Neural Network (CNN) for multiclass classification of CIFAR10 dataset from torchvision using PyTorch.
