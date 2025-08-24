@@ -1,0 +1,3 @@
+This folder contains Python notebooks that demonstrate the construction of Deep Learning networks via PyTorch:
+- Model 8: This program contains a Multilayer Perceptorn (MLP) for multiclass classification of make_blobs dataset from sklearn using PyTorch.
+- Model 9: This program contains a Convolutional Neural Network (CNN) for multiclass classification of CIFAR10 dataset from torchvision using PyTorch.
