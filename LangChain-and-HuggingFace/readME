@@ -1,1 +1,4 @@
-Hi
+This folder contains the codes for an AI-powered email response system that utilizes Retrieval Augmented Generation (RAG) for capturing contextual accuracy:
+- Seq2Seq transformer (Google's T5) model was fine-tuned by leveraging the HuggingFace library and LangChain framework.
+- This application requires a collection of email threads that is packaged in the mbox file format.
+- This application is currently suited to work within the Gmail environment only.
